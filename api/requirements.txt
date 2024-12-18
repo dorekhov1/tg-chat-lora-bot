@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+comet_ml
+torch
+transformers
+peft
+bitsandbytes
+accelerate

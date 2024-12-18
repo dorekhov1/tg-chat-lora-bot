@@ -1,0 +1,15 @@
+torch
+transformers
+peft
+comet_ml
+python-telegram-bot
+loguru
+pydantic
+debugpy
+datasets
+scipy
+accelerate
+bitsandbytes
+trl
+sentencepiece
+tqdm
